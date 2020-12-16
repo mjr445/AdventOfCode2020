@@ -2,6 +2,6 @@
 
 These are my solutions for each day of the Advent of Code 2020 Challenge. 
 
-The Challenges can be found at the link below:
+The challenges can be found at the link below:
 
 https://adventofcode.com/
