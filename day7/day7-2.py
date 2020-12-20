@@ -29,7 +29,6 @@ totalBags = []
 def dfs(graph, node, prevNode, multiplier):
 
     for neighbour in graph[node]:
-        # print(graph[node][neighbour])
         leafTotal = graph[node][neighbour] * multiplier
         totalBags.append(leafTotal)
         if not graph[neighbour]: # Dictionary is empty (is a leaf)
